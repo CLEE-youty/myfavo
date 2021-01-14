@@ -1,0 +1,7 @@
+# Ignore artifacts
+
+# Ignore extension
+.md
+
+## reference
+## https://prettier.io/docs/en/ignore.html
