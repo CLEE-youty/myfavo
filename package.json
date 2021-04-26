@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "@nuxtjs/stylelint-module": "^4.0.0",
-    "stylelint": "^13.9.0",
+    "stylelint": "^13.13.0",
     "@nuxtjs/vuetify": "^1.11.3",
     "stylelint-config-standard": "^20.0.0"
   }
