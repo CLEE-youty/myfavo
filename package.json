@@ -11,7 +11,7 @@
     "lint": "npm run lint:style"
   },
   "dependencies": {
-    "@nuxt/content": "^1.9.0",
+    "@nuxt/content": "^1.14.0",
     "@nuxtjs/axios": "^5.12.2",
     "core-js": "^3.8.3",
     "firebase": "^8.2.4",
